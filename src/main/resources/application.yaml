@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo3
+# 하위 요소는 스페이스 두 칸으로 구분 됨
+# 키: 스페이스바 1칸(값)으로 구분됨
+  profiles:
+    active: dev
